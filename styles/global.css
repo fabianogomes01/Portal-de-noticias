@@ -33,6 +33,7 @@ body {
     font: var(--text);
     color: var(--text-color-primary);
     background-color: var(--bg-color);
+    margin-bottom: 10px;
 }
 
 a {
